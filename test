@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Framer 21ec140">
+    <title>312-秘密基地</title>
+    <meta name="description" content="專屬我們的回憶">
+    <meta name="framer-search-index" content="https://framerusercontent.com/sites/5MoDTIhKHX38MYTyekUQ02/searchIndex-aFYLB7nUVXxI.json">
+    <link rel="icon" href="https://framerusercontent.com/images/sOe9TB24GCyV1785twiolvmeLU.png">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="312-秘密基地">
+    <meta property="og:description" content="專屬我們的回憶">
+    <meta property="og:image" content="https://framerusercontent.com/assets/oK4Uti3ckODK9FLHomKotuJZnRs.png">
+    <meta property="og:url" content="https://ourmimi.framer.website/">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="312-秘密基地">
+    <meta name="twitter:description" content="專屬我們的回憶">
+    <meta name="twitter:image" content="https://framerusercontent.com/assets/oK4Uti3ckODK9FLHomKotuJZnRs.png">
+    
+    <!-- 優化資源載入 -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="canonical" href="https://ourmimi.framer.website/">
+    <link rel="preload" as="script" href="https://framerusercontent.com/sites/5MoDTIhKHX38MYTyekUQ02/chunk-HNQTGMN4.mjs">
+    <link rel="preload" as="script" href="https://framerusercontent.com/sites/5MoDTIhKHX38MYTyekUQ02/chunk-ELYU6EKT.mjs">
+    
+    <!-- 最小化 CSS -->
+    <style>
+        html, body { margin: 0; padding: 0; box-sizing: border-box; }
+        * { box-sizing: border-box; font-family: sans-serif; }
+        h1, h2, h3, h4, h5, h6, p { margin: 0; }
+    </style>
+</head>
+<body>
+    <h1>歡迎來到 312-秘密基地</h1>
+</body>
+</html>
